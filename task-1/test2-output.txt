@@ -1,0 +1,12 @@
+irmovl
+mrmovl
+rmmovl
+jne
+je
+call
+jmp
+irmovl
+jge
+jl
+jle
+nop
